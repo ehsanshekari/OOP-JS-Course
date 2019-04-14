@@ -1,5 +1,7 @@
 # JAJSOOPW
 
+## Just Another JavaScript Object Oriented Workshop
+
 This repository contains the code of my workshop on object oriented programming(OOP) in javaScript & node.js.
 
 My resources for this workshop were:
