@@ -1,4 +1,4 @@
-// prototype introduction
+// Prototype Introduction
 
 var person1 = {
     firstname: 'John',
