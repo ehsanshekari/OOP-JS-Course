@@ -13,3 +13,4 @@ var person1 = {
 var john = Object.create(person1);
 console.log(john.lastname);
 console.log(john.__proto__ === person1); //true
+ 
