@@ -1,3 +1,5 @@
+// Object.create
+
 var person1 = {
     firstname: 'John',
     lastname: 'Doe',

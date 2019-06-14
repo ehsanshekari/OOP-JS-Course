@@ -1,3 +1,5 @@
+// Inheritance -> How
+
 function Animal(name){
   this.name = name;
 }

@@ -1,4 +1,5 @@
-// Inheritance -> Complete Example
+// Inheritance -> Node.js
+var inherits = require('util').inherits;
 
 //Animal Base Class
 function Animal(name) {
@@ -9,17 +10,13 @@ Animal.prototype.walk = function () {
   console.log(this.name, 'is walking');
 }
 
-var animal1 = new Animal('Dog');
-animal1.walk();
-
 // Bird Child Class
 function Bird(name, wingsLength) {
   Animal.call(this, name);
   this.wingsLength = wingsLength;
 }
 
-//Bird.prototype.__proto__ = Animal.prototype; // Attention
-Object.setPrototypeOf(Bird.prototype, Animal.prototype);
+inherits(Bird,Animal); // First Prototype Setup Then Add Functions to Bird Prototype 
 
 Bird.prototype.fly = function () {
   console.log(this.name, 'is flying with wingsLength of', this.wingsLength);
