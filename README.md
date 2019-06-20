@@ -4,8 +4,11 @@
 
 This repository contains the source code of "my programming(OOP) in javaScript" online video course.
 All Videos are published at https://www.aparat.com/v/Qmc18
+
 Email: e.shekari@gmail.com
+
 Telegram id:@shekariehsan
+
 Telegram group: https://t.me/joinchat/B-ICdBa24f7t8qub6A84iw
 
 My resources for this course were:
