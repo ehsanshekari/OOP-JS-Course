@@ -13,9 +13,8 @@ person1.printFullname();
 person1.lastname = 'Another Doe';
 person1.printFullname();
 
-person1.age = 25;
+person1.age = 33;
 console.log(person1.age);
-
 
 var person2 = {
     firstname: 'Jane',
@@ -25,7 +24,16 @@ var person2 = {
     }
 }
 
+console.log(person2.firstname);
+person2.printFullname();
+person2.lastname = 'Another Doe';
 person2.printFullname();
 
+// delete person2.firstname;
+// console.log(person2.firstname);
+
 var field = 'firstname';
-console.log(person2[field]);
+console.log('======>', person1[field]);
+
+
+

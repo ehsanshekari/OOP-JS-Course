@@ -1,4 +1,4 @@
-// Prototype Introduction
+// Prototypes & Prototype Chain
 
 var person1 = {
     firstname: 'John',
@@ -11,4 +11,3 @@ var person1 = {
 console.log(person1.firstname);
 person1.__proto__.x = 10;
 console.log(person1.x);
-
