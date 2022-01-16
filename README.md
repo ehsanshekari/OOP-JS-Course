@@ -3,7 +3,6 @@
 ## Just Another JavaScript Object Oriented Workshop
 
 This repository contains the source code of "my programming(OOP) in javaScript" online video course.
-All Videos are published at https://www.aparat.com/v/Qmc18
 
 Email: e.shekari@gmail.com
 
