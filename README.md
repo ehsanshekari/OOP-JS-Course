@@ -1,10 +1,10 @@
-# JAJSOOPW
+# کدهای دوره شی گرایی در جاوااسکریپت 
 
-## Just Another JavaScript Object Oriented Workshop
+## درباره دوره
+در این دوره با نحوه پیاده سازی شی گرایی در جاوااسکریپت آشنا خواهید شد. شی گرایی در جاوااسکریپت با استفاده از prototype ها پیاده سازی می شود. در این دوره با مفاهیم و جزئیات کامل شی گرایی و ارث بری در نسخه های ES5 و ES6 جاوااسکریپت آشنا خواهید شد.<br>
+ویدیو معرفی دوره را از این [لینک](https://www.aparat.com/v/SvwDX?playlist=331610) می توانید مشاهده کنید.<br>
+این دوره را می توانید از این [لینک](https://danup.ir/academy/e-shekari) تهیه کنید.
 
-This repository contains the source code of "my programming(OOP) in javaScript" online video course.
-
-Email: e.shekari@gmail.com
-
-Telegram id:@shekariehsan
- 
+## تماس با من
+Email: e.shekari@gmail.com<br>
+Telegram id: @shekariehsan
